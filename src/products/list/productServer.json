@@ -1,0 +1,425 @@
+[
+  {
+    "_id": "643bfbbb3e1b82cb5a6e6990",
+    "nome": "Celular motoG7",
+    "quantidade": 1,
+    "valor": 1450.98,
+    "createdAt": "2023-04-16T13:44:27.180Z",
+    "updatedAt": "2023-04-16T13:44:27.180Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c04a9869af9cf084eca25",
+    "nome": "Celular motoG7",
+    "quantidade": 1,
+    "valor": 1450.98,
+    "createdAt": "2023-04-16T14:22:33.239Z",
+    "updatedAt": "2023-04-16T14:22:33.239Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c050d108242cbd5980f44",
+    "nome": "Celular motoG7",
+    "quantidade": 1,
+    "valor": 1450.98,
+    "createdAt": "2023-04-16T14:24:13.444Z",
+    "updatedAt": "2023-04-16T14:24:13.444Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c0961c1fd74441df61790",
+    "nome": "Celular DoogeV20",
+    "quantidade": 1,
+    "valor": 3250.56,
+    "createdAt": "2023-04-16T14:42:41.818Z",
+    "updatedAt": "2023-04-16T14:42:41.818Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c09c9ed84b942e946e481",
+    "nome": "Celular DoogeV20",
+    "quantidade": 1,
+    "valor": 3250.56,
+    "createdAt": "2023-04-16T14:44:25.108Z",
+    "updatedAt": "2023-04-16T14:44:25.108Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c09e0ed84b942e946e483",
+    "nome": "Celular PocoV5PRO",
+    "quantidade": 1,
+    "valor": 1650.75,
+    "createdAt": "2023-04-16T14:44:48.598Z",
+    "updatedAt": "2023-04-16T14:44:48.598Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c09faed84b942e946e485",
+    "nome": "Celular Iphone@14",
+    "quantidade": 1,
+    "valor": 8500.45,
+    "createdAt": "2023-04-16T14:45:14.970Z",
+    "updatedAt": "2023-04-16T14:45:14.970Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c0d7bc7ea515e2eb3286c",
+    "nome": "Celular Iphone@15",
+    "quantidade": 1,
+    "valor": 8500.45,
+    "createdAt": "2023-04-16T15:00:11.777Z",
+    "updatedAt": "2023-04-16T15:00:11.777Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c0dd7c7ea515e2eb3286e",
+    "nome": "Celular Iphone@16",
+    "quantidade": 1,
+    "valor": 8500.45,
+    "createdAt": "2023-04-16T15:01:43.361Z",
+    "updatedAt": "2023-04-16T15:01:43.361Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c0e0ec7ea515e2eb32870",
+    "nome": "Celular Iphone@17",
+    "quantidade": 1,
+    "valor": 8500.45,
+    "createdAt": "2023-04-16T15:02:38.155Z",
+    "updatedAt": "2023-04-16T15:02:38.155Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c0e69c7ea515e2eb32872",
+    "nome": "Celular Iphone@17",
+    "quantidade": 1,
+    "valor": 8500.45,
+    "createdAt": "2023-04-16T15:04:09.709Z",
+    "updatedAt": "2023-04-16T15:04:09.709Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c0e8bc7ea515e2eb32874",
+    "nome": "Celular Iphone@17",
+    "quantidade": 1,
+    "valor": 8500.45,
+    "createdAt": "2023-04-16T15:04:43.239Z",
+    "updatedAt": "2023-04-16T15:04:43.239Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c1072c7ea515e2eb32876",
+    "nome": "Celular Iphone@17",
+    "quantidade": 1,
+    "valor": 8500.45,
+    "createdAt": "2023-04-16T15:12:50.512Z",
+    "updatedAt": "2023-04-16T15:12:50.512Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c108d7ee9055fc806bbb4",
+    "nome": "Celular Iphone@17",
+    "quantidade": 1,
+    "valor": 8500.45,
+    "createdAt": "2023-04-16T15:13:17.168Z",
+    "updatedAt": "2023-04-16T15:13:17.168Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c10ed8d385877c49198c2",
+    "nome": "Celular Iphone@17",
+    "quantidade": 1,
+    "valor": 8500.45,
+    "createdAt": "2023-04-16T15:14:53.019Z",
+    "updatedAt": "2023-04-16T15:14:53.019Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c124dd94c662c10f388bc",
+    "nome": "Celular Iphone@17",
+    "quantidade": 1,
+    "valor": 8500.45,
+    "createdAt": "2023-04-16T15:20:45.312Z",
+    "updatedAt": "2023-04-16T15:20:45.312Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c131d7f13fac7cd582ae2",
+    "nome": "Celular Iphone@17",
+    "quantidade": 1,
+    "valor": 8500.45,
+    "createdAt": "2023-04-16T15:24:13.107Z",
+    "updatedAt": "2023-04-16T15:24:13.107Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c13add2fec9520a127759",
+    "nome": "Celular Iphone@17",
+    "quantidade": 1,
+    "valor": 8500.45,
+    "createdAt": "2023-04-16T15:26:37.903Z",
+    "updatedAt": "2023-04-16T15:26:37.903Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c13c7310018329f230eec",
+    "nome": "Celular Iphone@17",
+    "quantidade": 1,
+    "valor": 8500.45,
+    "createdAt": "2023-04-16T15:27:03.960Z",
+    "updatedAt": "2023-04-16T15:27:03.960Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c14a59c206f96eac31dcd",
+    "nome": "Celular Iphone@17",
+    "quantidade": 1,
+    "valor": 8500.45,
+    "createdAt": "2023-04-16T15:30:45.642Z",
+    "updatedAt": "2023-04-16T15:30:45.642Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c152fd108bd3eea6658c1",
+    "nome": "Celular Iphone@17",
+    "quantidade": 1,
+    "valor": 8500.45,
+    "createdAt": "2023-04-16T15:33:03.409Z",
+    "updatedAt": "2023-04-16T15:33:03.409Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c154dd108bd3eea6658c3",
+    "nome": "Celular Iphone@14",
+    "quantidade": 1,
+    "valor": 8500.45,
+    "createdAt": "2023-04-16T15:33:33.069Z",
+    "updatedAt": "2023-04-16T15:33:33.069Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c156b35c6c88c9ba6543e",
+    "nome": "Celular Iphone@28",
+    "quantidade": 1,
+    "valor": 8500.45,
+    "createdAt": "2023-04-16T15:34:03.786Z",
+    "updatedAt": "2023-04-16T15:34:03.786Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c159503f503108df9ddce",
+    "nome": "Celular Iphone@28",
+    "quantidade": 1,
+    "valor": 8500.45,
+    "createdAt": "2023-04-16T15:34:45.867Z",
+    "updatedAt": "2023-04-16T15:34:45.867Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c15deda72e17b9b9dab10",
+    "nome": "Celular Iphone@228",
+    "quantidade": 1,
+    "valor": 8500.45,
+    "createdAt": "2023-04-16T15:35:58.540Z",
+    "updatedAt": "2023-04-16T15:35:58.540Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c17714e447675a8bd17d6",
+    "nome": "Celular Iphone@228",
+    "quantidade": 1,
+    "valor": 8500.45,
+    "createdAt": "2023-04-16T15:42:41.912Z",
+    "updatedAt": "2023-04-16T15:42:41.912Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c17bad3aa0b8bb726d005",
+    "nome": "Celular Iphone@228",
+    "quantidade": 1,
+    "valor": 8500.45,
+    "createdAt": "2023-04-16T15:43:54.817Z",
+    "updatedAt": "2023-04-16T15:43:54.817Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c17e044211b99799f5272",
+    "nome": "Celular Iphone@228",
+    "quantidade": 1,
+    "valor": 8500.45,
+    "createdAt": "2023-04-16T15:44:32.711Z",
+    "updatedAt": "2023-04-16T15:44:32.711Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c181c7f454b92f5186850",
+    "nome": "Celular Iphone@228",
+    "quantidade": 1,
+    "valor": 8500.45,
+    "createdAt": "2023-04-16T15:45:32.664Z",
+    "updatedAt": "2023-04-16T15:45:32.664Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c184cbb2dcf7b749a4335",
+    "nome": "Celular Iphone@228",
+    "quantidade": 1,
+    "valor": 8500.45,
+    "createdAt": "2023-04-16T15:46:20.865Z",
+    "updatedAt": "2023-04-16T15:46:20.865Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c25c4ba46ddde46d656e3",
+    "nome": "Celular Iphone@228",
+    "quantidade": 1,
+    "valor": 8500.45,
+    "createdAt": "2023-04-16T16:43:48.309Z",
+    "updatedAt": "2023-04-16T16:43:48.309Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c26719bf4349d07b3eb14",
+    "nome": "Celular Iphone@228",
+    "quantidade": 1,
+    "valor": 8500.45,
+    "createdAt": "2023-04-16T16:46:41.496Z",
+    "updatedAt": "2023-04-16T16:46:41.496Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c26ade85bee28b0df49de",
+    "nome": "Celular Iphone@228",
+    "quantidade": 1,
+    "valor": 8500.45,
+    "createdAt": "2023-04-16T16:47:41.477Z",
+    "updatedAt": "2023-04-16T16:47:41.477Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c2732cbbbad2fc97c93ce",
+    "nome": "Celular Iphone@228",
+    "quantidade": 1,
+    "valor": 8500.45,
+    "createdAt": "2023-04-16T16:49:54.894Z",
+    "updatedAt": "2023-04-16T16:49:54.894Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c275dd0f602fbcf86132e",
+    "nome": "Celular Iphone@228",
+    "quantidade": 1,
+    "valor": 8500.45,
+    "createdAt": "2023-04-16T16:50:37.168Z",
+    "updatedAt": "2023-04-16T16:50:37.168Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c27799c9b9573fcd12ca3",
+    "nome": "Celular Iphone@228",
+    "quantidade": 1,
+    "valor": 8500.45,
+    "createdAt": "2023-04-16T16:51:05.017Z",
+    "updatedAt": "2023-04-16T16:51:05.017Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c27b905a9da51a1b76bf2",
+    "nome": "Celular Iphone@228",
+    "quantidade": 1,
+    "valor": 8500.45,
+    "createdAt": "2023-04-16T16:52:09.040Z",
+    "updatedAt": "2023-04-16T16:52:09.040Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c27c21f2d825ab32628c0",
+    "nome": "Celular Iphone@228",
+    "quantidade": 1,
+    "valor": 8500.45,
+    "createdAt": "2023-04-16T16:52:18.879Z",
+    "updatedAt": "2023-04-16T16:52:18.879Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c283ac2231221120321d1",
+    "nome": "Celular Iphone@228",
+    "quantidade": 1,
+    "valor": 8500.45,
+    "createdAt": "2023-04-16T16:54:18.390Z",
+    "updatedAt": "2023-04-16T16:54:18.390Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c28979f065ad941ed37de",
+    "nome": "Celular Iphone@228",
+    "quantidade": 1,
+    "valor": 8500.45,
+    "createdAt": "2023-04-16T16:55:51.923Z",
+    "updatedAt": "2023-04-16T16:55:51.923Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c28aaa4640e8a3a009105",
+    "nome": "Celular Iphone@328",
+    "quantidade": 1,
+    "valor": 8500.45,
+    "createdAt": "2023-04-16T16:56:10.152Z",
+    "updatedAt": "2023-04-16T16:56:10.152Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c28c08edf615a441e98b6",
+    "nome": "Celular Iphone@328",
+    "quantidade": 1,
+    "valor": 8500.45,
+    "createdAt": "2023-04-16T16:56:32.179Z",
+    "updatedAt": "2023-04-16T16:56:32.179Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c2b8668d9313c00026422",
+    "nome": "Celular Iphone@328",
+    "quantidade": 1,
+    "valor": 8500.45,
+    "createdAt": "2023-04-16T17:08:22.212Z",
+    "updatedAt": "2023-04-16T17:08:22.212Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c2f8748fa308f3b5232b8",
+    "nome": "Celular Iphone@328",
+    "quantidade": 1,
+    "valor": 8500.45,
+    "createdAt": "2023-04-16T17:25:27.582Z",
+    "updatedAt": "2023-04-16T17:25:27.582Z",
+    "__v": 0
+  },
+  {
+    "_id": "643c2f8d73d9ad6ed0a1f0f2",
+    "nome": "Celular Iphone@14",
+    "quantidade": 1,
+    "valor": 8500.45,
+    "createdAt": "2023-04-16T17:25:33.787Z",
+    "updatedAt": "2023-04-16T17:25:33.787Z",
+    "__v": 0
+  },
+  {
+    "_id": "6445397d0dfba2885ef6de4c",
+    "nome": "Celular Dooge@V20",
+    "quantidade": 10,
+    "valor": 8500.45,
+    "createdAt": "2023-04-23T13:58:21.993Z",
+    "updatedAt": "2023-04-23T13:58:21.993Z",
+    "__v": 0
+  },
+  {
+    "_id": "64453a1e6c89ebe6a0e44387",
+    "nome": "Celular Dooge@V20",
+    "quantidade": 10,
+    "valor": 8500.45,
+    "createdAt": "2023-04-23T14:01:03.008Z",
+    "updatedAt": "2023-04-23T14:01:03.008Z",
+    "__v": 0
+  }
+]

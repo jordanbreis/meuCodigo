@@ -1,0 +1,62 @@
+[
+  {
+    "nome": "Celular Iphone@20",
+    "quantidade": "1",
+    "valor": "85000",
+    "valorTotal": 85000
+  },
+  {
+    "nome": "Celular Iphone@14",
+    "quantidade": "1",
+    "valor": "8500.45",
+    "valorTotal": 8500.45
+  },
+  {
+    "nome": "Celular Dooge@V20",
+    "quantidade": "10",
+    "valor": "8500.45",
+    "valorTotal": 85004.5
+  },
+  {
+    "nome": "Celular Dooge@V20",
+    "quantidade": "10",
+    "valor": "8500.45",
+    "valorTotal": 85004.5
+  },
+  {
+    "nome": "Computador da Aliexpress",
+    "quantidade": "13",
+    "valor": "4000",
+    "valorTotal": 52000
+  },
+  {
+    "nome": "Computador da Casas-Bahia",
+    "quantidade": "3",
+    "valor": "6000",
+    "valorTotal": 18000
+  },
+  {
+    "nome": "Mouse da Redragon",
+    "quantidade": "1",
+    "valor": "250",
+    "valorTotal": 250
+  },
+  {
+    "nome": "Mouse da Logitech",
+    "quantidade": "2",
+    "valor": "264",
+    "valorTotal": 528
+  },
+  {
+    "nome": "Teclado da Multilaser Warrior",
+    "quantidade": "1",
+    "valor": "160",
+    "valorTotal": 160
+  },
+  {
+    "nome": "Celular da Motorola",
+    "quantidade": "1",
+    "valor": "1600",
+    "valorTotal": 1600
+  }
+]
