@@ -421,5 +421,59 @@
     "createdAt": "2023-04-23T14:01:03.008Z",
     "updatedAt": "2023-04-23T14:01:03.008Z",
     "__v": 0
+  },
+  {
+    "_id": "64458c64a62186aacc8e6f15",
+    "nome": "Computador da Aliexpress",
+    "quantidade": 13,
+    "valor": 4000,
+    "createdAt": "2023-04-23T19:52:04.244Z",
+    "updatedAt": "2023-04-23T19:52:04.244Z",
+    "__v": 0
+  },
+  {
+    "_id": "64458c964b61f69a22cf7138",
+    "nome": "Computador da Casas-Bahia",
+    "quantidade": 3,
+    "valor": 6000,
+    "createdAt": "2023-04-23T19:52:54.311Z",
+    "updatedAt": "2023-04-23T19:52:54.311Z",
+    "__v": 0
+  },
+  {
+    "_id": "64458cb90eec8ae5fb2c6f25",
+    "nome": "Mouse da Redragon",
+    "quantidade": 1,
+    "valor": 250,
+    "createdAt": "2023-04-23T19:53:29.293Z",
+    "updatedAt": "2023-04-23T19:53:29.293Z",
+    "__v": 0
+  },
+  {
+    "_id": "64458cccc2d7ae8a3bf64ce3",
+    "nome": "Mouse da Logitech",
+    "quantidade": 2,
+    "valor": 264,
+    "createdAt": "2023-04-23T19:53:48.382Z",
+    "updatedAt": "2023-04-23T19:53:48.382Z",
+    "__v": 0
+  },
+  {
+    "_id": "64458d2225ac0fb106f47d4d",
+    "nome": "Teclado da Multilaser Warrior",
+    "quantidade": 1,
+    "valor": 160,
+    "createdAt": "2023-04-23T19:55:14.762Z",
+    "updatedAt": "2023-04-23T19:55:14.762Z",
+    "__v": 0
+  },
+  {
+    "_id": "64458d4398a1f26af0ac9bfa",
+    "nome": "Celular da Motorola",
+    "quantidade": 1,
+    "valor": 1600,
+    "createdAt": "2023-04-23T19:55:47.721Z",
+    "updatedAt": "2023-04-23T19:55:47.721Z",
+    "__v": 0
   }
 ]

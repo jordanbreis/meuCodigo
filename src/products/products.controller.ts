@@ -20,13 +20,23 @@ class productsController {
         return res.status(200).json(product)
     }
 
-    public async getStock(req: Request, res: Response) {
-        const product = await new productService().getStock()
+    public async getStockData(req: Request, res: Response) {
+        const product = await new productService().getStockData()
         return res.status(200).json(product)
     }
 
-    public async getStockReduce(req: Request, res: Response) {
-        const product = await new productService().getStockReduce()
+    public async getStockServer(req: Request, res: Response) {
+        const product = await new productService().getStockServer()
+        return res.status(200).json(product)
+    }
+
+    public async getStockReduceData(req: Request, res: Response) {
+        const product = await new productService().getStockReduceData()
+        return res.status(200).json(product)
+    }
+
+    public async getStockReduceServer(req: Request, res: Response) {
+        const product = await new productService().getStockReduceServer()
         return res.status(200).json(product)
     }
 

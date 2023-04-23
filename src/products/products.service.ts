@@ -33,18 +33,7 @@ class productService {
         return JSON.parse(listData)
     }
 
-    public async getStock() {
-
-        const contentData = await this.listData()
-        const valorStockData = await contentData.map( produto => {
-            let novoProduto = {
-                nome: produto.nome,
-                quantidade: produto.quantidade,
-                valor: produto.valor,
-                valorTotal: produto.valor * produto.quantidade
-            }
-            return novoProduto
-        })
+    public async getStockServer() {
 
         const contentServer = await this.listServer()
         const valorStockServer = await contentServer.map(produto => {
@@ -59,10 +48,36 @@ class productService {
 
         return valorStockServer
     }
+
+    public async getStockData() {
+
+        const contentData = await this.listData()
+        const valorStockData = await contentData.map( produto => {
+            let novoProduto = {
+                nome: produto.nome,
+                quantidade: produto.quantidade,
+                valor: produto.valor,
+                valorTotal: produto.valor * produto.quantidade
+            }
+            return novoProduto
+
+        })
+
+        return valorStockData
+    }
     
 
-    public async getStockReduce() {
-        const stock = await this.getStock()
+    public async getStockReduceData() {
+        const stock = await this.getStockData()
+        const stockValor = await stock.reduce((acumulado: any, atual: any) => {
+            acumulado = acumulado + atual.valorTotal
+            return acumulado
+        }, 0)
+        return stockValor
+    }
+
+    public async getStockReduceServer() {
+        const stock = await this.getStockServer()
         const stockValor = await stock.reduce((acumulado: any, atual: any) => {
             acumulado = acumulado + atual.valorTotal
             return acumulado
