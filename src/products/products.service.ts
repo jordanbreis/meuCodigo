@@ -36,7 +36,7 @@ class productService {
     public async getStockServer() {
 
         const contentServer = await this.listServer()
-        const valorStockServer = await contentServer.map(produto => {
+        const valorStockServer = contentServer.map(produto => {
             let novoProduto = {
                 nome: produto.nome,
                 quantidade: produto.quantidade,

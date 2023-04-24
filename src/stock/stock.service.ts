@@ -1,5 +1,6 @@
 import productService from "../products/products.service";
 import { writeFile, readFile } from 'fs/promises'
+import stockSchema from "./stock.schema";
 
 class stockService {
     constructor() { }
@@ -15,7 +16,10 @@ class stockService {
             }
             return novoProduto
         })
+        await stockSchema.deleteMany()
+        await stockSchema.create(valorStockData)
         await writeFile("./src/stock/productStok.json", JSON.stringify(valorStockData, null, 2))
+        
         return valorStockData
     }
 
