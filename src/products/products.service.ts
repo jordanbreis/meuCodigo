@@ -1,6 +1,7 @@
 import { productType } from "./types/products.type"
 import productSchema from "./products.schema"
 import { writeFile, readFile } from "fs/promises"
+import { response } from "express"
 
 
 class productService {
@@ -28,7 +29,7 @@ class productService {
         return listServer
     }
 
-    public async listData():Promise<productType[]> {
+    public async listData(): Promise<productType[]> {
         const listData = await readFile("./src/products/list/products.json", "utf-8")
         return JSON.parse(listData)
     }
@@ -52,7 +53,7 @@ class productService {
     public async getStockData() {
 
         const contentData = await this.listData()
-        const valorStockData = await contentData.map( produto => {
+        const valorStockData = await contentData.map(produto => {
             let novoProduto = {
                 nome: produto.nome,
                 quantidade: produto.quantidade,
@@ -65,7 +66,7 @@ class productService {
 
         return valorStockData
     }
-    
+
 
     public async getStockReduceData() {
         const stock = await this.getStockData()
@@ -94,15 +95,22 @@ class productService {
     public async randomProducts() {
         const productsList = await this.listData()
         let fourRandomProducts: productType[] = []
-        while(fourRandomProducts.length < 4){
-            let indexList:number = Math.floor(Math.random() * productsList.length)
+        while (fourRandomProducts.length < 4) {
+            let indexList: number = Math.floor(Math.random() * productsList.length)
             let randomObject: productType = productsList[indexList]
-            if(!fourRandomProducts.includes(randomObject)){
+            if (!fourRandomProducts.includes(randomObject)) {
                 fourRandomProducts.push(randomObject)
             }
         }
         console.log(fourRandomProducts)
         return fourRandomProducts
+    }
+
+    public async importServer() {
+        const produtos = await fetch('http://localhost:3010/products')
+        .then(response => response.json())
+        console.log(produtos)
+        return produtos
     }
 
 }

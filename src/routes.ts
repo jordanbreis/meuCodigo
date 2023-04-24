@@ -20,5 +20,6 @@ routes.get('/getStockReduceData', productsController.getStockReduceData)
 routes.get('/saveStockServer', productsController.saveServer)
 routes.get('/randomProducts', productsController.randomProducts)
 routes.get("/saveStockValue", productsController.saveStockValue)
+routes.get("/dataOtherServer", productsController.importServer)
 
 export default routes

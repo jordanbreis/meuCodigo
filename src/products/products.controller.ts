@@ -55,6 +55,11 @@ class productsController {
         return res.status(200).json(product)
     }
 
+    public async importServer(req: Request, res: Response) {
+        const product = await new productService().importServer()
+        return res.status(200).json(product)
+    }
+
 }
 
 export default new productsController()
